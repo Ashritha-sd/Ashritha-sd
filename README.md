@@ -10,8 +10,6 @@
 - 🌱 I’m currently learning **Python, Flask**
 
 - 💕 Love to challenge myself to learn new things
-  
-- 📫 Reach me at **ashrithadharma9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
